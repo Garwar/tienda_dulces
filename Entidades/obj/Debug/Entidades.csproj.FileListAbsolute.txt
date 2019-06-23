@@ -1,0 +1,7 @@
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\bin\Debug\Entidades.dll
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\obj\Debug\Entidades.dll
+C:\Users\NILSO\Source\Workspaces\Sistema de gestion para distribuidora de dulces\TiendaDulces\Entidades\obj\Debug\Entidades.pdb
